@@ -34,6 +34,3 @@ This project highlights advanced features of the Oracle APEX environment:
 
 **Developed By**: Atkiya Maisha & Mohua Akter
 
-**Course**: Database Systems (CSE302)
-
-**Institution**: East West University
